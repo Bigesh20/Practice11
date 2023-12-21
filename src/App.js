@@ -16,7 +16,7 @@ const categories = [
   },
   {
     id: 2,
-    title: 'Sneakers',
+    title: 'Mera wala sneaker',
     imgUrl: image2
   },
   {
