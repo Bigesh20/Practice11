@@ -11,7 +11,7 @@ import image5 from './component/images/img5.jpg'
 const categories = [
   {
     id: 1,
-    title: 'Hats',
+    title: 'Snow White',
     imgUrl: image1
   },
   {
